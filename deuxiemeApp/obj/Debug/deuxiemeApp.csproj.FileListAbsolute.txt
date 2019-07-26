@@ -1,0 +1,7 @@
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\bin\Debug\deuxiemeApp.exe.config
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\bin\Debug\deuxiemeApp.exe
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\bin\Debug\deuxiemeApp.pdb
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\obj\Debug\deuxiemeApp.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\obj\Debug\deuxiemeApp.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\obj\Debug\deuxiemeApp.exe
+C:\Users\jorda\source\repos\deuxiemeApp\deuxiemeApp\obj\Debug\deuxiemeApp.pdb

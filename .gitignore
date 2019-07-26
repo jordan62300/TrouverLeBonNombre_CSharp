@@ -1,0 +1,6 @@
+# Lotto_C-
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+.vs/
